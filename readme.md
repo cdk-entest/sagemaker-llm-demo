@@ -239,3 +239,11 @@ response = predictor.predict({
 ```
 
 ## Reference
+
+- [SageMaker JumpStartModel](https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_amazon_algorithms/jumpstart-foundation-models/llama-2-text-completion.ipynb)
+
+- [sagemaker-huggingface-inference-toolkit](https://github.com/aws/sagemaker-huggingface-inference-toolkit)
+
+- [Deploy Falcon 180B on Amazon SageMaker](https://www.philschmid.de/sagemaker-falcon-180b)
+
+- [Deploy models to Amazon SageMaker](https://huggingface.co/docs/sagemaker/inference)
